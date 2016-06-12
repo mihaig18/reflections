@@ -1,0 +1,16 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me because i was able to see only the modifications of the file (only the text parts where i made changes).
+
+i will be more efficient programmer because i will learn to be more organized and i will easily came back to old versions of programs.
+
+pros: - commiting manually gives more flexibilitty
+	  - commiting automatically could help me don't loose any line codes
+
+I think GIT allow saving multiple files in one commit because in many applications we deal with multiple corelated files.
+
+git log - shows commits details
+git diff commit1 commit2 - show differences betweeen files (green - what was added, red - what was removed)
+git clone - clone a repository (collection of versions)
+
+git is very useful and it improves my confidence in changing programs. 
+git checkout "id" - return to previous version

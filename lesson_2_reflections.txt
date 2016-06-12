@@ -1,0 +1,1 @@
+I need to initialize a repository for git to know what files should follow.
