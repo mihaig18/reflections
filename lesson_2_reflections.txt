@@ -1,1 +1,12 @@
 I need to initialize a repository for git to know what files should follow.
+
+I think staging area offers me the posibility to make some major change in multiple file and add as only one commit in repository.
+
+Commit stye example: 
+http://udacity.github.io/git-styleguide/
+
+To make sure i use only one commit per logical change, i can veify the changes between actual state of program and stage area (last commit).
+
+git diff - with no parameters check differences between stage area and working directory.
+git diff --staged - check differences between stage area and last commit
+git diff comit1 comit2 - check differences between two commits 
