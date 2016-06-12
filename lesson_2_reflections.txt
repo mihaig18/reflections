@@ -10,3 +10,7 @@ To make sure i use only one commit per logical change, i can veify the changes b
 git diff - with no parameters check differences between stage area and working directory.
 git diff --staged - check differences between stage area and last commit
 git diff comit1 comit2 - check differences between two commits 
+cat .git/config - shows config file
+git branch - shows branch
+git branch <name> - create new branch with name = <name>
+git checkout <branch_name> - checkout branch
