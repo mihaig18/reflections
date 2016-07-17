@@ -14,3 +14,5 @@ cat .git/config - shows config file
 git branch - shows branch
 git branch <name> - create new branch with name = <name>
 git checkout <branch_name> - checkout branch
+
+Visualizing branches diagram helps me see the whole changes and evolution of the project and this would probably help me make decisions about the future steps of the project.
