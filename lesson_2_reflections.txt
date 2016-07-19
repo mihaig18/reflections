@@ -18,3 +18,9 @@ git checkout <branch_name> - checkout branch
 Visualizing branches diagram helps me see the whole changes and evolution of the project and this would probably help me make decisions about the future steps of the project.
 
 The result of merging two branches together is a program with both changes in the two branches. This allows two or more programers to work on some program, and merge the results in the final. The diagram help us to better view the changes we made and choose some early state if it's necesary.
+
+Pros for automatic merging:
+-save time
+
+cons for automatic merging
+-it leads to manually merging in some cases
